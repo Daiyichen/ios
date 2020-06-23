@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hcmm.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>5985027A01E2C07BD5A5FACEA1ABD525418F32BA</string>
+				<key>dateExpires</key>
+				<string>2022/12/2</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>9X6SEA5MD8.com.neusoft.talentbase.hcm</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.networking.HotspotConfiguration</key>
+				<true/>
+				<key>com.apple.developer.networking.networkextension</key>
+				<array/>
+				<key>com.apple.developer.networking.wifi-info</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>9X6SEA5MD8</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>hcmm.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>b38aed03-7c3a-4b86-9d20-5ceebf11f420</string>
+				<key>name</key>
+				<string>DIS-com.neusoft.talentbase.hcm</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>9X6SEA5MD8</string>
+				<key>name</key>
+				<string>Neusoft Group (Dalian) Ltd.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
